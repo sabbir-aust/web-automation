@@ -1,0 +1,10 @@
+{
+  "name": "daraz_web",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^8.45.0",
+    "@wdio/local-runner": "^8.45.0",
+    "@wdio/mocha-framework": "^8.45.0",
+    "@wdio/spec-reporter": "^8.43.0"
+  }
+}
